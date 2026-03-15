@@ -9,7 +9,7 @@ const aulas = [
     title: 'Contratação',
     subtitle: 'Como selecionar as pessoas certas',
     icon: Users,
-    slides: 19,
+    slides: 15,
     available: true,
     color: '#8B5CF6'
   },

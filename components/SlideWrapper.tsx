@@ -19,7 +19,7 @@ function SlideWrapperInner({ children, aulaNumber, aulaTitle }: SlideWrapperProp
   // Extract current slide from path
   const pathParts = pathname.split('/');
   const currentSlide = parseInt(pathParts[pathParts.length - 1]) || 1;
-  const totalSlides = parseInt(searchParams.get('total') || (aulaNumber === 1 ? '19' : aulaNumber === 2 ? '19' : '17'));
+  const totalSlides = parseInt(searchParams.get('total') || (aulaNumber === 1 ? '15' : aulaNumber === 2 ? '19' : '17'));
 
   useEffect(() => {
     const calculateScale = () => {

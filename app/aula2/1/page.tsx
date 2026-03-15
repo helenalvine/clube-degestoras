@@ -17,7 +17,7 @@ export default function Slide1() {
               src="/filipe-ingrid.jpg"
               alt="Filipe e Ingrid"
               fill
-              className="object-cover"
+              className="object-cover object-top"
             />
           </div>
         </div>

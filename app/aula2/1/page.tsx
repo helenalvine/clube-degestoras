@@ -43,7 +43,7 @@ export default function Slide1() {
         </p>
 
         <div className="space-y-3 text-[#C4B5FD]/80">
-          <p className="font-lato text-xl">📅 16 de Março | Online ao Vivo</p>
+          <p className="font-lato text-xl">📅 18 de Março | Online ao Vivo</p>
           <p className="font-lato text-xl">⏱️ 90-120 minutos</p>
           <p className="font-lato text-xl">👥 Filipe e Ingrid Maiorino</p>
         </div>

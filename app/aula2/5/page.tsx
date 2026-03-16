@@ -2,8 +2,8 @@ import { CheckCircle } from 'lucide-react';
 
 const pyramidLevels = [
   { name: 'RESULTADOS', color: '#2DD4BF', width: '45%' },
-  { name: 'LIDERANÇA', color: '#8B5CF6', width: '60%' },
-  { name: 'VALORIZAÇÃO', color: '#C4B5FD', width: '75%' },
+  { name: 'VALORIZAÇÃO', color: '#C4B5FD', width: '60%' },
+  { name: 'LIDERANÇA', color: '#8B5CF6', width: '75%' },
   { name: 'CULTURA', color: '#F0F4F8', width: '90%' },
 ];
 
